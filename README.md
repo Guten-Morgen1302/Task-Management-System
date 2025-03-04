@@ -23,7 +23,7 @@ Currently, the following features are being developed:
 - Notification System
 - Task Assignment and Due Dates
 
-> **Note:** The platform is **not functional** until all features are implemented and fully tested.
+> # **Note:** The platform is **not functional** until all features are implemented and fully tested.
 
 ## 📦 Installation
 
