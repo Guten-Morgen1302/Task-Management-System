@@ -33,7 +33,7 @@ To run the Task Management System locally, follow these steps:
 Ensure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
-- [MongoDB](https://www.mongodb.com/) or your preferred database.
+- [MongoDB](https://www.mongodb.com/)
 
 ### Setup Instructions
 
